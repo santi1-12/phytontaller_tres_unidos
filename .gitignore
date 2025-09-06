@@ -1,0 +1,23 @@
+# Archivos Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de base de datos (por ejemplo, sqlite3)
+db.sqlite3
+
+# Archivos de migraciones
+*/migrations/
+
+# Archivos de logs
+*.log
+
+# Directorios de archivos estáticos generados
+/static/
+
+# Archivos de configuración locales, como .env
+*.env
+
+# Archivos de entorno virtual
+venv/
+.env/
